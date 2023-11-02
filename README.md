@@ -12,3 +12,9 @@ Keystone instance simulating Portal. Used for testing GraphQL integration with G
 
 ## Keystone Schema and GraphQL API
 If running locally, you can explore the Keystone schema and GraphQL API at http://localhost:3000/admin/graphiql.
+
+## Running the Project
+- Clone the repository
+- Run `npm install` to install dependencies
+- Run `npm run dev` to start the server
+- Navigate to http://localhost:3000/admin to access the Keystone admin UI
